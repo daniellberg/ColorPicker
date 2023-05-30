@@ -156,9 +156,9 @@ nav a:hover {
   color: var(--color-primary-5);
 }
 
-nav a:active {
+/* nav a:active {
     color: var(--color-active);
-}
+} */
 
 .container {
   text-align: center;
